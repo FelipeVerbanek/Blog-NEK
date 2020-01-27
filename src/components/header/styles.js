@@ -20,7 +20,6 @@ export const Content = styled.div`
   padding-left: 80px;
   flex-grow: 1;
 
-
 `;
 export const Logo = styled.div`
       display: flex;

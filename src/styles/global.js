@@ -6,7 +6,7 @@ import 'react-perfect-scrollbar/dist/css/styles.css'
 export default createGlobalStyle`
     @import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
     @import url('https://fonts.googleapis.com/css?family=PT+Sans&display=swap');
-
+    @import url('https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap');
     * {
         margin: 0;
         padding: 0;
@@ -19,6 +19,7 @@ export default createGlobalStyle`
     }
 
     html, body, #root {
+        background: #eee;
         height: 100%;
     }
 

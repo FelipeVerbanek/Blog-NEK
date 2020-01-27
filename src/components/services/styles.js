@@ -3,7 +3,7 @@ import styled from 'styled-components';
 export const Container = styled.div`
     max-width: 1200px;
     margin: 0 auto;
-
+    
     h1{        
         text-align: center;
         margin: 50px auto;
@@ -20,8 +20,7 @@ export const Content = styled.div`
     
     li{
         display: flex;
-        flex-direction:column;
-        background: #fff;
+        flex-direction:column;        
         border-radius: 4px;
         padding: 20px;
         align-items: center;
